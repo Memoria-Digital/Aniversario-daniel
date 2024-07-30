@@ -57,7 +57,7 @@ document.addEventListener("click", (e) => {
 });
 function validatePassword() {
     var passwordInput = document.getElementById("password").value;
-    if (passwordInput !== "dantiar") {
+    if (passwordInput !== "DANTIAR") {
       var errorMessage = document.getElementById("errorMessage");
       errorMessage.textContent = "La contraseña es incorrecta.";
       return false; // Evita el envío del formulario si la contraseña es incorrecta
