@@ -12,7 +12,7 @@ body {
 }
 @media (max-width: 1880px) {
     body {
-      background-image: url('../img/descarga\ \(1\).jfif'); /* Ruta de la imagen de fondo para móviles */
+      background-image: url('../img/descarga\ \(4\).jfif'); /* Ruta de la imagen de fondo para móviles */
        background-size: contain; /* Ajusta el tamaño de la imagen para móviles */
        background-position: top center; /* Ajusta la posición de la imagen */
        background-repeat: repeat; /* Repite la imagen verticalmente */
@@ -21,7 +21,7 @@ body {
   }
 
 header {
-    background-color: #4c8ba3;
+    background-color: #3197c0;
     text-align: center;
     padding: 1em;
 }
@@ -45,7 +45,7 @@ header {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra al texto */
     letter-spacing: 2px; /* Espaciado entre letras */
     text-align: center; /* Centrar el texto */
-    background: linear-gradient(90deg, #4c8ba3, #4c8ba3);
+    background: linear-gradient(90deg, #3197c0, #3197c0);
     border-radius: 20px
    
 }

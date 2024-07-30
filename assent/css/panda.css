@@ -12,7 +12,7 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
-  background-image: url('../img/intensa.png'); /* Ruta de la imagen de fondo */
+  background-image: url('../img/descarga\ \(4\).jfif'); /* Ruta de la imagen de fondo */
   background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
   background-position: center center; /* Centra la imagen */
   background-repeat: no-repeat; /* Evita la repetición de la imagen */
@@ -101,7 +101,7 @@ form button {
 
 /* New CSS */
 .form-image {
-  width: 25%; /* Adjust the percentage as needed */
+  width: 55%; /* Adjust the percentage as needed */
   height: auto;
   margin-bottom: 1em; /* Space between image and form */
   
